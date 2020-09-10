@@ -1,18 +1,16 @@
 # coding=utf-8
 
 #
-# * RECODE? OKE GAK MASSALAH
-# * TAPI YA JANGAN DI JUAL KONTOL
+# * MRBYPASS
+# *MOONTON ACCOUNT CHECKER
 #
 
 ############################################################
 # Name           : Moonton Account Checker                 #
-# File           : moonton.py                              #
-# Author         : DulLah                                  #
-# Github         : https://github.com/dz-id                #
-# Facebook       : https://www.facebook.com/dulahz         #
-# Telegram       : https://t.me/DulLah                     #
-# Python version : 3.7++                                   #
+# File           : MRBYPASSML.py                           #
+# Author         : MrBypass                                #
+#                                                          #
+#                                                          #
 ############################################################
 
 import os, sys, hashlib, json, random, re
@@ -62,14 +60,9 @@ class MOONTON:
     self.api = url
     self.loop = 0
     print('''\033[0m
-|V| _  _ __ _|_ _ __    /  |_  _  _  |  _  __
-| |(_)(_)| | |_(_)| |   \__| |(/_(_  |<(/_ |
----------------------------------------------
-          - Created By (DulLah) -
----------------------------------------------\n''')
-##########################################
-# Please don't remove the author name :( #
-##########################################
+
+█▀▄▀█ █▀█ █▄▄ █▄█ █▀█ ▄▀█ █▀ █▀
+█░▀░█ █▀▄ █▄█ ░█░ █▀▀ █▀█ ▄█ ▄█
 
   def auto_upper(self, string):
     text = ''.join(
